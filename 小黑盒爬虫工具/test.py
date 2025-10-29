@@ -1,0 +1,3 @@
+from 未完成.小黑盒爬虫工具.game_data_craw_part_script import check_whether_own_xiao_hei_he
+
+check_whether_own_xiao_hei_he()
